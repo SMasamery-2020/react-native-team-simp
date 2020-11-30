@@ -1,1 +1,4 @@
-
+https://medium.com/@rossbulat/working-with-app-state-and-event-listeners-in-react-native-ffa9bba8f6b7
+App State: 
+AppState is 
+App Event: 
